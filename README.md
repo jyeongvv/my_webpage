@@ -39,7 +39,7 @@
     *  농구 경기에서의 각각 스텟들이 경기 결과에 어떤 영향을 미치는지 / 이기려면 어떤 부분을 강화해야하는지 알기 위해 프로젝트를 진행하였습니다.
     > Streamlit과 Colab을 사용하여 데이터 시각화 및 분석도 진행하였습니다.
     > 선형회귀, 랜덤포레스트, 결정트리, Xgboost를 이용하여 모델링을 진행하였습니다.
-    
+
     > [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-0.88.0-green)](https://streamlit.io/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-0.9.6-orange)](https://colab.research.google.com/)
