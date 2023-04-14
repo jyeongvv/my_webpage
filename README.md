@@ -28,7 +28,7 @@
     > Streamlit과 Colab을 사용하여 데이터 시각화 및 분석도 진행하였습니다.
 
     > [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-0.88.0-green)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-0.88.0-green)](https://share.streamlit.io/app/cc5547-python-submissioncc554702-second-webappapp-0nz736/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-0.9.6-orange)](https://colab.research.google.com/)
 
     . 
@@ -41,5 +41,5 @@
     > 선형회귀, 랜덤포레스트, 결정트리, Xgboost를 이용하여 모델링을 진행하였습니다.
 
     > [![Python](https://img.shields.io/badge/Python-3.7%2B-blue)](https://www.python.org/)
-[![Streamlit](https://img.shields.io/badge/Streamlit-0.88.0-green)](https://streamlit.io/)
+[![Streamlit](https://img.shields.io/badge/Streamlit-0.88.0-green)](https://whatalin-sportstootoo-mhstreamlit-splvho.streamlit.app/)
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-0.9.6-orange)](https://colab.research.google.com/)
