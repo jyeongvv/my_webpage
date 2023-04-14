@@ -1,0 +1,42 @@
+/* 전체 페이지 스타일 */
+body {
+    font-family: Arial, sans-serif; /* 폰트 지정 */
+    margin: 0; /* 페이지 마진 제거 */
+    padding: 0; /* 페이지 패딩 제거 */
+  }
+  
+  /* 헤더 스타일 */
+  header {
+    background-color: #333; /* 배경색 지정 */
+    color: #fff; /* 글자색 지정 */
+    padding: 20px; /* 패딩 지정 */
+  }
+  
+  /* 섹션 제목 스타일 */
+  section h2 {
+    font-size: 24px; /* 글자 크기 지정 */
+    margin-bottom: 10px; /* 마진 지정 */
+  }
+  
+  /* 더보기 링크 스타일 */
+  section a {
+    color: #333; /* 글자색 지정 */
+    text-decoration: none; /* 밑줄 제거 */
+    font-size: 14px; /* 글자 크기 지정 */
+    margin-left: 10px; /* 마진 지정 */
+  }
+  
+  /* 리스트 스타일 */
+  ul {
+    list-style-type: none; /* 리스트 스타일 제거 */
+    padding: 0; /* 패딩 제거 */
+    margin: 0; /* 마진 제거 */
+  }
+  
+  /* 별 아이콘 스타일 */
+  ul li:before {
+    content: "\2605"; /* 별 아이콘 삽입 */
+    margin-right: 5px; /* 마진 지정 */
+    color: #f7ca18; /* 별 아이콘 색상 지정 */
+  }
+  
