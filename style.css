@@ -7,7 +7,7 @@ body {
   
   /* 헤더 스타일 */
   header {
-    background-color: #333; /* 배경색 지정 */
+    background-color: #0489B1; /* 배경색 지정 */
     color: #fff; /* 글자색 지정 */
     padding: 20px; /* 패딩 지정 */
   }
@@ -20,7 +20,7 @@ body {
   
   /* 더보기 링크 스타일 */
   section a {
-    color: #333; /* 글자색 지정 */
+    color: #0B243B; /* 글자색 지정 */
     text-decoration: none; /* 밑줄 제거 */
     font-size: 14px; /* 글자 크기 지정 */
     margin-left: 10px; /* 마진 지정 */
@@ -36,7 +36,7 @@ body {
   /* 별 아이콘 스타일 */
   ul li:before {
     content: "\2605"; /* 별 아이콘 삽입 */
-    margin-right: 5px; /* 마진 지정 */
+    margin-right: 7px; /* 마진 지정 */
     color: #f7ca18; /* 별 아이콘 색상 지정 */
   }
 
